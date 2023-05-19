@@ -227,7 +227,7 @@
   .navbar-default .navbar-toggle:hover,
   .navbar-default .navbar-toggle:focus {
     border-color: #fd6802;
-    background-color: #fd6802;
+    background-color: red;
   }
   .navbar-default .navbar-collapse,
   .navbar-default .navbar-form {
