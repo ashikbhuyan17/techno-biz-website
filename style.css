@@ -557,7 +557,7 @@ li.social-links a {
 }
 
 .slide-text h1 span{
-	color: #fd6802;
+	color: red;
 }
 
 .slide-text h2 {
@@ -904,7 +904,7 @@ li.social-links a {
 }
 
 .da-thumbs .pitem a div i {
-    background-color: #fd6802;
+    background-color: red;
     position: absolute;
     color: #ffffff !important;
     bottom: 0;
@@ -936,7 +936,7 @@ li.social-links a {
 }
 
 .desc h3 i {
-    color: #fd6802;
+    color: red;
     font-size: 37px;
     vertical-align: middle;
     margin-right: 12px;
@@ -1566,7 +1566,7 @@ hr.invis1 {
     border-radius: 25px 0px 25px 0px;
     font-size: 26px;
 	color: #ffffff;
-    background-color: #fd6802;
+    background-color: red;
     margin: 0 auto 22px;
     position: relative;
     text-align: center;
@@ -1577,7 +1577,7 @@ hr.invis1 {
 
 .features-right li i:hover,
 .features-left li i:hover {
-	background: #fcbf02;
+	background: rgb(229, 21, 21);
 }
 
 #features i img {
@@ -2993,7 +2993,7 @@ select.mobile-device {
 
 
 .portfolio-filter ul li .btn-dark.active{
-	background: #fcbf02;
+	background: red;
 	color: #ffffff;
 }
 
