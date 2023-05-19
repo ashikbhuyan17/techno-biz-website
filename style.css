@@ -458,7 +458,7 @@ a img.aligncenter {
 	color: #ffffff;
 	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
 	border-radius: 25px 0px 25px 0px;
-	background: #fd6802;
+	background: red;
 }
 
 .header_style_01 .navbar-default .navbar-nav > li:hover a,
@@ -466,7 +466,7 @@ a img.aligncenter {
     color: #ffffff;
 	box-shadow: 0 10px 20px 0 rgba(5, 16, 44, .15);
 	border-radius: 25px 0px 25px 0px;
-	background: #fd6802;
+	background: red;
 }
 
 .header_style_01 .navbar-right > li {
@@ -570,9 +570,17 @@ li.social-links a {
              0px 18px 23px rgba(0,0,0,0.1);
 }
 
+.owl-next i,.owl-prev i{
+    background-color: red;
+    color: white;
+}
+.owl-next i:hover,.owl-prev i:hover{
+    background-color: red;
+    color: white;
+}
 
 .slider-wrapper .owl-nav .owl-prev, .slider-wrapper .owl-nav .owl-next {
-    background: #393939;
+    background: red;
     height: 60px;
     top: 50%;
     transform: translateY(-50%);
@@ -582,7 +590,7 @@ li.social-links a {
 }
 
 .slider-wrapper .owl-nav .owl-prev:hover, .slider-wrapper .owl-nav .owl-next:hover {
-	background: #fd6802;
+	background: red;
 }
 
 .slider-wrapper .owl-nav .owl-prev {
@@ -613,7 +621,7 @@ li.social-links a {
 	left: 0px;
 	width: auto;
 	height: auto;
-	background: none;
+	background: red;
 	color: #ffffff;
 }
 
@@ -1215,7 +1223,7 @@ li.social-links a {
     top: -7px;
     left: -7px;
     padding: 7px;
-    box-shadow: 0 0 0 2px #fcbf02;
+    box-shadow: 0 0 0 2px red;
     -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
     -webkit-transform: scale(.8);
     -moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -2289,7 +2297,7 @@ select.mobile-device {
 }
 
 .icon_wrap {
-    background-color: #fd6802;
+    background-color: red;
     width: 100px;
     height: 100px;
     display: block;
@@ -2800,9 +2808,9 @@ select.mobile-device {
 .btn-light {
     padding: 13px 40px;
     font-size: 18px;
-    border: 2px solid #fd6802;
+    /* border: 2px solid #fd6802; */
     color: #ffffff;
-    background-color: #fd6802;
+    background-color: red;
 }
 
 .btn-dark {
@@ -2815,7 +2823,7 @@ select.mobile-device {
 
 .btn-light:hover,
 .btn-light:focus {
-    border-color: #fd6802;
+    border-color: red;
     color: rgba(255, 255, 255);
 	background: #393939;
 }
